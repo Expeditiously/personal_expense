@@ -44,3 +44,9 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+#MB
+# Did not start these topics. ignored for now
+/android
+/ios
+/web
